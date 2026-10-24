@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI",
+  "description": "Intelligent AI assistant that manages schedules, drafts emails, prioritizes urgent tasks, syncs with calendar, and provides smart notifications with full offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
